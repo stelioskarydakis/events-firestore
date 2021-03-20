@@ -14,7 +14,7 @@ body {
 .ui.main.container {
   margin-top: 7em;
 }
-/* 
+
 .masthead {
   display: flex;
   align-items: center;
@@ -30,7 +30,7 @@ body {
 .masthead h1.ui.header {
   font-size: 4em;
 }
-
+/* 
 .react-datepicker-wrapper {
   width: 100%;
 }
